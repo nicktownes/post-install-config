@@ -21,13 +21,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Windows 10</b> (21H2)
 
 <h2>Post-Install Configuration Objectives</h2>
-
-- Configure roles for grouping permissions
-- Configured Deparments and Teams
-- Configured Agents(workers) and Users(customers)
-- Created Service Level Agreements(SLAs)
-- Created Help Topics
-
+    <ul>
+    - Configure roles for grouping permissions
+    - Configured Deparments and Teams
+    - Configured Agents(workers) and Users(customers)
+    - Created Service Level Agreements(SLAs)
+    - Created Help Topics
+    </ul>
 <h2>Configuration Steps</h2>
 
 <p>
