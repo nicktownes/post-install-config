@@ -54,13 +54,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 - Configure Agents (workers)
     Admin Panel -> Agents -> Add New
-      Jane (Dept: SysAdmins)
-      John (Dept: Support)
+          Jane (Dept: SysAdmins)
+          John (Dept: Support)
 
 - Configure Users (customers)
     Agent Panel -> Users -> Add New
-      Karen
-      Ken
+          Karen
+          Ken
 </p>
 <br />
 
@@ -68,18 +68,18 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://docs.osticket.com/en/latest/_images/schedules1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure SLA
-  Admin Panel -> Manage -> SLA
-      Sev-A (Grace Period: 1 hour, Schedule: 24/7)
-      Sev-B (Grace Period: 4 hours, Schedule: 24/7)
-      Sev-C (Grace Period: 8 hours, Business Hours)
+- Configure SLA
+    Admin Panel -> Manage -> SLA
+          Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+          Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+          Sev-C (Grace Period: 8 hours, Business Hours)
 
 - Configure Help Topics (For when users create a ticket)
     Admin Panel -> Manage -> Help Topics
-      Business Critical Outage
-      Personal Computer Issues
-      Equipment Request
-      Password Reset
-      Other
+          Business Critical Outage
+          Personal Computer Issues
+          Equipment Request
+          Password Reset
+          Other
 </p>
 <br />
