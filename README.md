@@ -35,15 +35,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 <ul>
-- Configure Roles (for grouping permissions)
+<h3>Configure Roles (for grouping permissions)</h3>
      <li>Admin Panel -> Agents -> Roles</li>
      <li>Supreme Admin</li>
 
-- Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
+<h3>Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)</h3>
     <li> Admin Panel -> Agents -> Departments</li>
     <li> SysAdmins</li>
 
-- Configure Teams
+<h3>Configure Teams</h3>
     <li> Admin Panel -> Agents -> Teams (Pull Agents from different Departments)</li>
     <li> Online Banking</li>
 </ul>
@@ -55,12 +55,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
  <ul>
-- Configure Agents (workers)
+<h3>Configure Agents (workers)</h3>
     <li> Admin Panel -> Agents -> Add New</li>
             <li>Jane (Dept: SysAdmins)</li>
             <li>John (Dept: Support)</li>
 
-- Configure Users (customers)
+<h3>Configure Users (customers)</h3>
     <li> Agent Panel -> Users -> Add New</li>
             <li>Karen</li>
             <li> Ken</li>
@@ -73,7 +73,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 <ul>
-- Configure SLA
+<h3>Configure SLA</h3>
      <li>Admin Panel -> Manage -> SLA</li>
         <ul>
            <li>Sev-A (Grace Period: 1 hour, Schedule: 24/7)</li>
@@ -81,7 +81,7 @@ This tutorial outlines the post-install configuration of the open-source help de
            <li>Sev-C (Grace Period: 8 hours, Business Hours)</li>
         </ul>
 
-- Configure Help Topics (For when users create a ticket)
+<h3>Configure Help Topics (For when users create a ticket)</h3>
      <li>Admin Panel -> Manage -> Help Topics</li>
         <ul>
            <li>Business Critical Outage</li>
