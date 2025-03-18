@@ -34,17 +34,19 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://docs.osticket.com/en/latest/_images/admin_agents_roles.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<ul>
 - Configure Roles (for grouping permissions)
-    Admin Panel -> Agents -> Roles
-    Supreme Admin
+     <li>Admin Panel -> Agents -> Roles</li>
+     <li>Supreme Admin</li>
 
 - Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
-    Admin Panel -> Agents -> Departments
-    SysAdmins
+    <li> Admin Panel -> Agents -> Departments</li>
+    <li> SysAdmins</li>
 
 - Configure Teams
-    Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
-    Online Banking
+    <li> Admin Panel -> Agents -> Teams (Pull Agents from different Departments)</li>
+    <li> Online Banking</li>
+</ul>
 </p>
 <br />
 
@@ -52,15 +54,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://docs.osticket.com/en/latest/_images/admin_agents_agents.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+ <ul>
 - Configure Agents (workers)
-    Admin Panel -> Agents -> Add New
-          Jane (Dept: SysAdmins)
-          John (Dept: Support)
+    <li> Admin Panel -> Agents -> Add New</li>
+            <li>Jane (Dept: SysAdmins)</li>
+            <li>John (Dept: Support)</li>
 
 - Configure Users (customers)
-    Agent Panel -> Users -> Add New
-          Karen
-          Ken
+    <li> Agent Panel -> Users -> Add New</li>
+            <li>Karen</li>
+            <li> Ken</li>
+</ul>
 </p>
 <br />
 
@@ -68,18 +72,24 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://docs.osticket.com/en/latest/_images/schedules1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<ul>
 - Configure SLA
-    Admin Panel -> Manage -> SLA
-          Sev-A (Grace Period: 1 hour, Schedule: 24/7)
-          Sev-B (Grace Period: 4 hours, Schedule: 24/7)
-          Sev-C (Grace Period: 8 hours, Business Hours)
+     <li>Admin Panel -> Manage -> SLA</li>
+        <ul>
+           <li>Sev-A (Grace Period: 1 hour, Schedule: 24/7)</li>
+           <li>Sev-B (Grace Period: 4 hours, Schedule: 24/7)</li>
+           <li>Sev-C (Grace Period: 8 hours, Business Hours)</li>
+        </ul>
 
 - Configure Help Topics (For when users create a ticket)
-    Admin Panel -> Manage -> Help Topics
-          Business Critical Outage
-          Personal Computer Issues
-          Equipment Request
-          Password Reset
-          Other
+     <li>Admin Panel -> Manage -> Help Topics</li>
+        <ul>
+           <li>Business Critical Outage</li>
+           <li>Personal Computer Issues</li>
+           <li>Equipment Request</li>
+           <li>Password Reset</li>
+           <li>Other</li>
+        </ul>
+</ul>
 </p>
 <br />
